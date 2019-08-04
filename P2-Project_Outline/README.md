@@ -10,15 +10,18 @@ For this assignment, you will submit a high-level outline of your project. This 
 The app will allow the user too input recipes and uploads video of them, "how they made the food". What they use to make food, aka, "ingredients". The user will have rights to their own page with rating from other use of the app with there own input. 
 ### Features
 -user login: User will be able to create accounts
-             able to log into app. After the log-in process will have to make sure it is the user. 
--search: User will be able to search for cooking recipes, that was submit to the data base.
--user page: this will have all the user's recipes.
+ able to log into app. After the log-in process will have to make sure it is the user. 
+<br>-search: User will be able to search for cooking recipes, that was submit to the data base.
+<br>-user page: this will have all the user's recipes.
 ### Technologies
--CSS
--Python
--html
--Androd phone
+-CSS<br>
+-Python<br>
+-HTML<br>
+-Android phone
 ### What I'll Have to Learn
+
+-How to put the app into an Android phone, for testing. <br>
+-Authentication
 
 ### Project Tracker
 https://trello.com/b/YXHPk1kD
